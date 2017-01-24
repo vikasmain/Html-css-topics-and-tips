@@ -1,0 +1,6 @@
+there are two types of servers :
+Database servers and file servers.
+Databse server contains text data like comments,brands,categories etc.it is a type of software which stores data in text form.
+mysql is an open source database,becz we can create unlimited data(Tables) here.
+required attribute in html5 is used for field if it is not filled it will print it is required.
+line-height:100 means it is bw top and bottom.

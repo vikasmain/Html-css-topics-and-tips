@@ -1,0 +1,30 @@
+index.php,index.html these are default files for web directory.
+comments in html=<!--comment-->
+3.we always make a <div> in a website layout that acts as a container for my website layout.
+4.href=hypher reference(where our file stored).
+5.<link media="all">means css styles will apply on all the devices like mobiles,pc,laptops etc.
+6.if margin=auto(means center aligned)
+7.difference between ids and classes in css:
+ids are unique Each element can have only one ID
+Each page can have only one element with that ID
+classes are not unique You can use the same class on multiple elements.
+You can use multiple classes on the same element
+<div class="widget"></div>
+<div class="widget"></div>
+<div class="widget"></div>
+8.float is a property used in css to element to apply left or right to its position.
+9.list-style:none property is used for displaying nothing in <ul>.
+10.display:inline is used for displaying inline elements.
+11.<form method="get" enctype="multipart/form-data">//enctype="multipart" means we are displaying images and other texts also.so multipart.method=get becz we are getting the text.
+12.database table:myshop
+tables used here:
+categories,brands,cart,customers,customers_orders,admins,pending_orders.
+url=http://localhost/phpmyadmin/
+first we have to make php connections with mysql database.
+comments in php=//comments
+comments in css=/*   */
+comments in html=<!--comments-->
+POST method in php is used for fetching data from server.
+inside echo"" "" never comes.always replace it from ''.
+mysqli_connect("servername(localhost)","root(username)","password(nothing)","databasename(Onlineshop)");
+19.detail.php?cat_id=$cat_id//?sign means we are assigning a variable here.
